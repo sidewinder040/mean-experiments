@@ -9,6 +9,8 @@ Command:
 `$ npx express-generator --git --view=pug`
 
 ### MVC - Create 'Home Controller'
-* Modify route '/home' to output message.
-  
+* Created controller
+* Created home route
+* Modified app.js to use route 
+
 
