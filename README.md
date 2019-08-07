@@ -13,4 +13,8 @@ Command:
 * Created home route
 * Modified app.js to use route 
 
+Next Step...
+
+* Render basic view - view name <route>_<view name>.pug
+
 
