@@ -9,12 +9,13 @@ Command:
 `$ npx express-generator --git --view=pug`
 
 ### MVC - Create 'Home Controller'
+**Git Branch - CreateHomeController**
+
 * Created controller
 * Created home route
 * Modified app.js to use route 
+* Render basic view - view name *route_view name.pug*, in the 'Views' root folder.
+
+### MongoDB with Mongoose.js
 
 Next Step...
-
-* Render basic view - view name <route>_<view name>.pug
-
-
